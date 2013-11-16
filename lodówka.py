@@ -1,3 +1,10 @@
+# łączna cena
+# najczęstszy produkt
+# którego produktu jest najwięcej
+# wyjmowanie produktu z lodówki
+# jeżeli produkt o danej nazwie już istnieje to modyfikujemy jego właściwości
+
+
 # -*- coding: utf-8 -*-
 class Lodowka(object):
     
